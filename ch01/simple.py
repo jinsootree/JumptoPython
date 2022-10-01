@@ -1,10 +1,15 @@
-#simple.py
+# simple.py
 languages = ['python', 'perl', 'java', 'c']
+
+
+def print():
+    pass
+
 
 for lang in languages:
     if lang in ['python', 'perl']:
-        print("%6s need interpreter" % lang)
+        print()
     elif lang in ['c', 'java']:
-        print("%6s need compiler" % lang)
+        print()
     else:
-        print("should not reach here")
+        print()
