@@ -1,7 +1,7 @@
 food = "python's favorite food is perl"
 print(food)
 
-say ='"python is very easy." he says'
+say = '"python is very easy." he says'
 print(say)
 
 food = 'python\'s favorite food is perl'
@@ -15,7 +15,7 @@ print(multiline)
 
 multiline = """
 Life is too short
-tyou need python\
+you need python\
 """
 print(multiline)
 
@@ -68,4 +68,3 @@ weather = a[8:]
 print(year)
 print(date)
 print(weather)
-
